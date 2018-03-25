@@ -1,0 +1,7 @@
+server:
+    servlet:
+      context-path: /api
+app:
+  config:
+    ethereum:
+      wallet-location: /Users/Lennart/Library/Application Support/io.parity.ethereum/keys/test/UTC--2018-03-25T16-31-01Z--e7e17b23-3181-460d-0e26-17572c9501f2
